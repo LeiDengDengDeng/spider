@@ -4,6 +4,8 @@ import org.jsoup.nodes.Element;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import util.MyFileWriter;
+import util.MyWebDriver;
 
 import java.util.List;
 

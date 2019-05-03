@@ -3,6 +3,8 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import util.MyFileWriter;
+import util.MyWebDriver;
 
 import java.util.List;
 

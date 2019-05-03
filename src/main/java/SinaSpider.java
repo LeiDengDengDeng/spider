@@ -2,6 +2,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.openqa.selenium.WebDriver;
+import util.MyFileWriter;
+import util.MyWebDriver;
 
 /**
  * Created by deng on 2017/8/9.
